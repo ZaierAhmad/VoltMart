@@ -9,6 +9,7 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
+    weight: 100vw;
     background-color: #f0f0f0;
 }
 
@@ -18,3 +19,6 @@
 }
 
 /* Test by Mustafa */
+.Mustafa {
+    max-width: 600px;
+}
